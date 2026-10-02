@@ -11,5 +11,3 @@ Este é um programa em C que lê os dumps da memória de texto e de dados do sim
 *        2) O tamanho dos módulos de memória é fixo: 1 bloco de 16 Kbits para a
 *           memória de instruções e 4 blocos de 16 Kbits (64 Kbits) para cada módulo de
 *           memória de dados.
-
-Traduzido com a versão gratuita do tradutor - DeepL.com
