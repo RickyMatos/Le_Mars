@@ -5,7 +5,7 @@ Este é um programa em C que lê os dumps da memória de texto e de dados do sim
 *    declarações de pares de entidade/arquitetura, que definem um módulo de memória de instruções
 *    ou mais blocos de memória de dados
 
-*    Observações:
+  Observações:
 
 *    1 - Presume-se que os dumps contenham exclusivamente valores hexadecimais
         para endereços, código-objeto e dados. Parametrize o MARS para gerar
